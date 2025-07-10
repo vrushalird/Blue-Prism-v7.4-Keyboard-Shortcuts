@@ -51,7 +51,7 @@ To insert additional tools via Alt shortcuts:
 Want to insert a stage between two existing ones?<br>
 Just `right-click` the new stage, hold `Alt`, and drag it between the two stages.<br>
 Blue Prism will automatically link the stages!<br><br>
-![How to auto-link stages in Blue Prism v7.4](assets/Auto-Linking Demo.gif)
+![How to auto-link stages in Blue Prism v7.4](https://github.com/vrushalird/Blue-Prism-v7.4-Keyboard-Shortcuts/blob/main/assets/Auto-Linking Demo.gif)
 
 ## Basic Editor Actions
 
