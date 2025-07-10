@@ -1,6 +1,6 @@
 # Blue Prism v7.4 Keyboard Shortcuts
 
-If you're working in Blue Prism v7.4, knowing these shortcut keys can significantly improve your development and debugging speed. Though the list of shortcut keys shared here is applicable for Blue Prism v7.4, it is common for most of the other Blue Prism versions as well.
+If you're working in Blue Prism v7.4, knowing these shortcut keys can significantly improve your development and debugging speed. Though the list of shortcut keys shared here is applicable for Blue Prism v7.4, most of it is common for other Blue Prism versions as well.
 
 ## Debugging Shortcuts
 Below are some of the shortcut keys I found to be very helpful while debugging the bot:
